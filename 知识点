@@ -1,0 +1,6 @@
+2018.10.31
+1. 爬虫
+爬取数据的格式(原网页存储形式:表格形式或json形式)
+使用工具 pyton,编辑器 (jupyter notebook: 代码分析)
+案例:表格形式 爬取大学排名; json形式 爬取NBA球员
+html网页内容(resource): ->F2->Network->F5
